@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ngoc-thanh-thanh-nguyen-68004740b)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tammynguyen0699@gmail.com)
-[![Location](https://img.shields.io/badge/Ho_Chi_Minh_City,_Vietnam-🇻🇳-green?style=for-the-badge)](https://github.com/tammynguyen6)
 
 </div>
 
@@ -17,8 +16,6 @@
 I'm an AI/ML engineer and NLP researcher specializing in **automatic speech recognition (ASR)**, **accent adaptation**, and **noise-robust deep learning systems**. I recently graduated with a **Bachelor of Computer Science (Artificial Intelligence)** from Swinburne University of Technology (GPA 3.8/4.0, High Distinction) and hold an Associate of Science in Engineering from Highline College, Washington, USA.
 
 I am the **lead researcher and first author** on three published/submitted papers in ASR, with all experimental design, model training, and evaluation done independently. My work has been recognized with a  **Best Paper Award at ICISN 2026 (Springer)**.
-
-I'm actively seeking **remote AI Engineer, ML Engineer, or NLP Researcher** roles globally.
 
 ---
 
@@ -109,9 +106,6 @@ An intelligent rehabilitation platform for elderly users, delivered to a real cl
 | Best Paper Award | ICISN 2026, Springer | 2026 |
 | Most Innovative Award | Swinburne Vietnam Hackathon | 2024 |
 | AI Fundamentals & Applications (×7) | IBM / Coursera | 2024 |
-| Phi Theta Kappa Honor Society | Highline College | 2019 |
-| MESA\|ASEM Scholar | Highline College | 2019 |
-| CRLA Master Tutor Level III | Highline College | 2019 |
 
 ---
 
@@ -144,8 +138,7 @@ An intelligent rehabilitation platform for elderly users, delivered to a real cl
 
 <div align="center">
 
- **Get in touch:** [tammynguyen0699@gmail.com](mailto:tammynguyen0699@gmail.com) · [LinkedIn](https://linkedin.com/in/ngoc-thanh-thanh-nguyen-68004740b) · [+84 937 878 679](tel:+84937878679)
+ **Get in touch:** [tammynguyen0699@gmail.com](mailto:tammynguyen0699@gmail.com) · [LinkedIn](https://linkedin.com/in/ngoc-thanh-thanh-nguyen-68004740b)
 
-*Open to remote AI Engineer, ML Engineer, and NLP Researcher opportunities worldwide.*
 
 </div>

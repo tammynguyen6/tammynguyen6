@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ngoc-thanh-thanh-nguyen-68004740b)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tammynguyen0699@gmail.com)
 [![Location](https://img.shields.io/badge/Ho_Chi_Minh_City,_Vietnam-🇻🇳-green?style=for-the-badge)](https://github.com/tammynguyen6)
-[![Open to Work](https://img.shields.io/badge/Open_to_Remote_Roles-✅-brightgreen?style=for-the-badge)](mailto:tammynguyen0699@gmail.com)
 
 </div>
 
@@ -36,7 +35,7 @@ I'm actively seeking **remote AI Engineer, ML Engineer, or NLP Researcher** role
 ---
 
 ###  [AccentAdapt-Whisper] Improving English ASR for Asian Accents via Adaptive Ensemble
-> *Published by **Springer** at **ICISN 2026** (Hanoi, Vietnam) — **Best Paper Award** 🏆*
+> *Published by **Springer** at **ICISN 2026** (Hanoi, Vietnam) — **Best Paper Award** *
 
 - **17% relative WER reduction**: 14.98% → 12.43%
 - CNN accent detector: **99.82% accuracy** in **< 50ms**, no fine-tuning required
@@ -44,7 +43,7 @@ I'm actively seeking **remote AI Engineer, ML Engineer, or NLP Researcher** role
 
 ---
 
-### 📽️ [CITA 2025] Automated Speech-to-Text Captioning & Noise Robustness using OpenAI Whisper
+###  [CITA 2025] Automated Speech-to-Text Captioning & Noise Robustness using OpenAI Whisper
 > *Published by **Springer** at **CITA 2025** — [DOI: 10.1007/978-3-032-00972-2_31](https://doi.org/10.1007/978-3-032-00972-2_31)*
 
 - WER reduced: **18.08% → 4.75%**
